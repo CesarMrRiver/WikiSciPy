@@ -1,0 +1,1 @@
+No olvides instalar SciPy antes que nada!!
